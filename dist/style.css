@@ -190,7 +190,7 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    margin: 0 4px;
+    margin: 0;
 }
 
 .villain-toolbar-group[disabled] {
